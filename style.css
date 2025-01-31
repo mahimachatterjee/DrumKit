@@ -82,6 +82,14 @@ button:hover {
 
 h1 {
   color: gold;
+  border-radius: 10px;
+  /* display: inline; */
 }
 
+#app{
+  border-radius: 10px;
+}
 
+.set{
+  border-radius: 10px;
+}
